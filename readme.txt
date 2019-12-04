@@ -8,7 +8,7 @@ License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Copyright: 2019 Carolina Nymark
 
-Short description
+A one page burger restautant theme for the block editor.
 
 == Description ==
 
